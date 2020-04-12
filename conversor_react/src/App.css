@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.linha{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+    color: rgba(69, 152, 75, 0.952);
+}
+
+#moedas_title{
+    color: rgb(233, 214, 48);
+}
+
+.App{
+    margin: auto;
+    max-width: 900px;
+}
